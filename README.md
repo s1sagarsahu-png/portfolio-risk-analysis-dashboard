@@ -1,5 +1,5 @@
 ## Dashboard Preview
-![Risk Scatter Chart](portfolio-risk-analysis-dashboard.png)
+![Risk Scatter Chart](Screenshot_20260719-140324~2.jpg)
 ![Dashboard](Screenshot_20260718-183234.png)
 
 # portfolio-risk-dashboard
