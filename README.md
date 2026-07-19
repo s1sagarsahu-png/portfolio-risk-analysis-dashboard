@@ -1,3 +1,7 @@
+## Dashboard Preview
+![Risk Scatter Chart](portfolio-risk-analysis-dashboard.png)
+![Dashboard](Screenshot_20260718-183234.png)
+
 # portfolio-risk-dashboard
 Interactive Portfolio Risk Dashboard built using Looker Studio for financial risk analysis.
 # 📊 Portfolio Risk Analysis Dashboard
@@ -26,12 +30,9 @@ This project is an interactive portfolio risk dashboard built using **Looker Stu
 - Risk Analysis
 - Dashboard Development
 - Data Visualization
-- Business Intelligence
-## Dashboard Preview
+- Business Intelligence 
 
-![Dashboard](Screenshot_20260718-183234.png)
 
-![Risk Scatter Chart](portfolio-risk-analysis-dashboard.png)
 ## Author
 **Sagar Sahu**
 BBA (Hons.) FinTech | ACCA Candidate
