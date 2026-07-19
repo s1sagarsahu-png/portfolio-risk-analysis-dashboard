@@ -31,7 +31,7 @@ This project is an interactive portfolio risk dashboard built using **Looker Stu
 
 ![Dashboard](Screenshot_20260718-183234.png)
 
-![Risk Scatter Chart](risk-scatter-chart.png)
+![Risk Scatter Chart](portfolio-risk-analysis-dashboard.png)
 ## Author
 **Sagar Sahu**
 BBA (Hons.) FinTech | ACCA Candidate
